@@ -11,7 +11,7 @@ export const Characters = () => {
 
     return (
         <div className=" m-5 overflow-x-auto">
-            <h2 className="text-danger mb-4 d-flex justify-content-start mt-5">
+            <h2 className="text-danger mb-4 d-flex justify-content-start mt-5 pt-4">
                 Characters
             </h2>
             <div className="d-flex ">
